@@ -1,0 +1,23 @@
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\bin\Debug\Szkola.exe
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\bin\Debug\Szkola.pdb
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\obj\x86\Debug\Szkola.Form1.resources
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\obj\x86\Debug\Szkola.Properties.Resources.resources
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\obj\x86\Debug\Szkola.csproj.GenerateResource.Cache
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\obj\x86\Debug\Szkola.exe
+C:\Users\damia_000\AppData\Local\Temporary Projects\Szkola\obj\x86\Debug\Szkola.pdb
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.exe
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.pdb
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\bin\Debug\Szkola.exe
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\bin\Debug\Szkola.pdb
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.Form1.resources
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.Properties.Resources.resources
+C:\Users\damia_000\documents\visual studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.csproj.GenerateResource.Cache
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\bin\Debug\Szkola.exe
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\bin\Debug\Szkola.pdb
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.csprojResolveAssemblyReference.cache
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.Form1.resources
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.Properties.Resources.resources
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.csproj.GenerateResource.Cache
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.csproj.CoreCompileInputs.cache
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.exe
+E:\C\Visual Studio 2010\Projects\Szkola\Szkola\obj\x86\Debug\Szkola.pdb
